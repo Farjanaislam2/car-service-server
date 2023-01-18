@@ -1,0 +1,70 @@
+[
+    {
+      "_id": "1",
+      "picture": "https://img.freepik.com/free-photo/white-luxury-sport-sedan-car-standing-race-trace-front-side-view_114579-1161.jpg?size=626&ext=jpg&ga=GA1.2.1819645791.1666648323&semt=sph",
+      "name": "Ferrari",
+      "about":"From our past, we've learned perfection. This is how the first model of the Ferrari Huracán was born.",
+      "Milege":"32,000",
+      "Seating Capacity":"5",
+      "Engine Capacity":"1500 cc",
+      "Fuel Type":"Octane",
+      "Price":"37,20,000"
+    },
+    {
+      "_id": "2",
+      "picture": "https://img.freepik.com/free-photo/grey-luxury-sedan-car-driving-highway_114579-4024.jpg?size=626&ext=jpg&ga=GA1.1.1819645791.1666648323&semt=sph",
+      "name": "Audi",
+      "about":"First Nuremberg, then Zurich, then Salzburg, Berlin and Munich. The Audi charging hub’s flexible, modular charging concept is flourishing. Drivers of electric cars appreciate",
+      "Milege":"32,000",
+      "Seating Capacity":"5",
+      "Engine Capacity":"1500 cc",
+      "Fuel Type":"Octane",
+      "Price":"40,20,000"
+
+    },
+    {
+      "_id": "3",
+      "picture": "https://img.freepik.com/free-photo/white-sport-car-with-autotuning-stripes-road_114579-5052.jpg?size=626&ext=jpg&ga=GA1.1.1819645791.1666648323&semt=sph",
+      "name": "Lamborgini",
+      "about":"From our past, we've learned perfection. This is how the first model of the Lamborghini Huracán was born.",
+      "Milege":"32,000",
+      "Seating Capacity":"5",
+      "Engine Capacity":"1500 cc",
+      "Fuel Type":"Octane",
+      "Price":"55,20,000"
+    },
+    {
+      "_id": "4",
+      "picture": "https://img.freepik.com/free-photo/white-coupe-sport-car-standing-road-front-view_114579-4005.jpg?size=626&ext=jpg&ga=GA1.1.1819645791.1666648323&semt=sph",
+      "name": "Tesla",
+      "about":"Tesla All-Wheel Drive has two independent motors for improved redundancy, each with only one moving part for minimal maintenance and maximum durability.",
+      "Milege":"32,000",
+      "Seating Capacity":"5",
+      "Engine Capacity":"1500 cc",
+      "Fuel Type":"Octane",
+      "Price":"20,20,000"
+    },
+    {
+      "_id": "5",
+      "picture": "https://img.freepik.com/free-photo/blue-sport-sedan-parked-yard_114579-5078.jpg?size=626&ext=jpg&ga=GA1.2.1819645791.1666648323&semt=sph",
+      "name": "Honda",
+      "about":"From our past, we've learned perfection. This is how the first model of the Honda Huracán was born.",
+      "Milege":"32,000",
+      "Seating Capacity":"5",
+      "Engine Capacity":"1500 cc",
+      "Fuel Type":"Octane",
+      "Price":"67,20,000"
+
+    },
+    {
+      "_id": "6",
+      "picture": "https://img.freepik.com/free-photo/luxury-black-sport-coupe-parking-snowy-road-forest_114579-4018.jpg?size=626&ext=jpg&ga=GA1.2.1819645791.1666648323&semt=sph",
+      "name": "BMW",
+      "about":"From our past, we've learned perfection. This is how the first model of the BMW Huracán was born.",
+      "Milege":"32,000",
+      "Seating Capacity":"5",
+      "Engine Capacity":"1500 cc",
+      "Fuel Type":"Octane",
+      "Price":"37,20,000"
+    }
+  ]
